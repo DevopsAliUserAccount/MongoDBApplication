@@ -34,5 +34,7 @@ YAML Manifests for Kubernetes configuration
 
 
 <img width="1728" height="1117" alt="Screenshot 2025-10-14 at 2 15 46 PM" src="https://github.com/user-attachments/assets/17a2112f-ac84-4c08-882d-4710c1639b78" />
-![Uploading Screenshot 2025-10-14 at 1.48.32 PM.png…]()
+
+<img width="809" height="940" alt="Screenshot 2025-10-14 at 1 48 32 PM" src="https://github.com/user-attachments/assets/cde18ee9-a79d-4431-87f3-8b8c7f476390" />
+
 
