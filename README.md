@@ -1,8 +1,8 @@
-🚀 MongoDB + Mongo Express on Kubernetes
+- MongoDB + Mongo Express on Kubernetes
 
 This setup deploys MongoDB and Mongo Express on a Kubernetes cluster (Minikube) to visualize and manage MongoDB data through a web UI.
 
-🧠 What’s Included
+-What’s Included
 
 MongoDB Deployment and Service configured within Kubernetes.
 
@@ -20,7 +20,7 @@ local
 
 Checked server metrics including uptime, MongoDB version, Node version, and active connections.
 
-⚙️ Tech Stack
+- Tech Stack
 
 Kubernetes (Minikube)
 
